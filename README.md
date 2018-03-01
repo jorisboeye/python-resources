@@ -13,7 +13,7 @@ a list of python resources
 
 ## data science
 
-* [Pyhton Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Pyhton data science handbook - Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## optimization
 
