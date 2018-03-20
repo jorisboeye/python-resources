@@ -14,6 +14,8 @@ a list of python resources
 ## data science
 
 * [Pyhton data science handbook - Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
+* [Python data visualisations tutorial](https://www.kaggle.com/benhamner/python-data-visualizations) 
 
 ## optimization
 
