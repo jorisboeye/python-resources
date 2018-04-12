@@ -6,6 +6,9 @@ a list of python resources
 * [Loop like a native: while, for, iterators, generators](https://youtu.be/EnSu9hHGq5o)
 * [A whirlwind tour of python - Jake Vanderplas](https://github.com/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 
+## object oriented programming
+* [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
+
 ## code style
 
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
