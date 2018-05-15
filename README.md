@@ -3,8 +3,9 @@ a list of python resources
 
 ## the basics
 
-* [Loop like a native: while, for, iterators, generators](https://youtu.be/EnSu9hHGq5o)
+* [Loop like a native: while, for, iterators, generators - Ned Batchelder](https://youtu.be/EnSu9hHGq5o)
 * [A whirlwind tour of python - Jake Vanderplas](https://github.com/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
+* [Big O: how code slows as data grows - Ned Batchelder](https://youtu.be/duvZ-2UK0fc) 
 
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
