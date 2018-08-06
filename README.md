@@ -15,6 +15,7 @@ a list of python resources
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://youtu.be/wf-BqAjZb8M)
 * [The Hitchhiker's Guide to Python - Structuring your project](https://docs.python-guide.org/writing/structure/)
+* [Python development workflow](https://stackoverflow.com/questions/19876993/python-module-import-relative-paths-issue/19877478#19877478) 
 
 ## data science
 
