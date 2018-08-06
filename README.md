@@ -10,10 +10,11 @@ a list of python resources
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
 
-## code style
+## code style & structure
 
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
-* [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://youtu.be/wf-BqAjZb8M)  
+* [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://youtu.be/wf-BqAjZb8M)
+* [The Hitchhiker's Guide to Python - Structuring your project](https://docs.python-guide.org/writing/structure/)
 
 ## data science
 
@@ -29,4 +30,3 @@ a list of python resources
 ## python ecosystem
 
 * [Jake Vanderplas - Keynote - PyCon 2017](https://youtu.be/ZyjCqQEUa8o)  
-
