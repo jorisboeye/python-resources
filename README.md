@@ -7,6 +7,7 @@ a list of python resources
 * [A whirlwind tour of python - Jake Vanderplas](https://github.com/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 * [Big O: how code slows as data grows - Ned Batchelder](https://youtu.be/duvZ-2UK0fc)
 * [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+* [Generators will Free Your Mind - James Powell](https://www.youtube.com/watch?v=RdhoN4VVqq8)
 
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
@@ -23,6 +24,7 @@ a list of python resources
 * [Pyhton data science handbook - Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
 * [Python data visualisations tutorial - Ben Hammer](https://www.kaggle.com/benhamner/python-data-visualizations) 
+* [Towards pandas 1.0 - Marc Garcia](https://youtu.be/hK6o_TDXXN8)
 
 ## optimization
 
