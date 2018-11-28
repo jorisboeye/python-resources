@@ -12,7 +12,7 @@ a list of python resources
 
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
-
+* [Hashes and equality - Hynek Schlawack](https://hynek.me/articles/hashes-and-equality/)
 ## code style & structure
 
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
