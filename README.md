@@ -8,6 +8,7 @@ a list of python resources
 * [Big O: how code slows as data grows - Ned Batchelder](https://youtu.be/duvZ-2UK0fc)
 * [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 * [Generators will Free Your Mind - James Powell](https://www.youtube.com/watch?v=RdhoN4VVqq8)
+* [Type-checked Python in the real world - PyCon 2018 - Carl Meyer](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
@@ -29,7 +30,7 @@ a list of python resources
 ## optimization
 
 * [How To Make Python Run As Fast As Julia ](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en)  
-* [Optimization with Cython: Ising Models (Part 1)](https://youtu.be/rN7g4gzO2sk)  
+* [Optimization with Cython: Ising Models (Part 1)](https://youtu.be/rN7g4gzO2sk)
 
 ## python ecosystem
 
