@@ -9,6 +9,8 @@ a list of python resources
 * [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
 * [Generators will Free Your Mind - James Powell](https://www.youtube.com/watch?v=RdhoN4VVqq8)
 * [Type-checked Python in the real world - PyCon 2018 - Carl Meyer](https://www.youtube.com/watch?v=pMgmKJyWKn8)
+* [Regular expressions explainer and testing - Regex101.com](https://www.regex101.com)
+
 
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
