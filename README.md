@@ -50,4 +50,4 @@ Jay Alammar](https://jalammar.github.io/visual-numpy/)
 
 ## git
 
-*[Learn Git Branching](https://learngitbranching.js.org/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
