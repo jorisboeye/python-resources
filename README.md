@@ -15,6 +15,7 @@ a list of python resources
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
 * [Hashes and equality - Hynek Schlawack](https://hynek.me/articles/hashes-and-equality/)
+
 ## code style & structure
 
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
@@ -28,6 +29,10 @@ a list of python resources
 * [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
 * [Python data visualisations tutorial - Ben Hammer](https://www.kaggle.com/benhamner/python-data-visualizations) 
 * [Towards pandas 1.0 - Marc Garcia](https://youtu.be/hK6o_TDXXN8)
+
+## numpy
+* [A Visual Intro to NumPy and Data Representation - 
+Jay Alammar](https://jalammar.github.io/visual-numpy/)
 
 ## optimization
 
