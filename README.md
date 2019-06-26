@@ -47,3 +47,7 @@ Jay Alammar](https://jalammar.github.io/visual-numpy/)
 * [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 * [Write less terrible code with Jupyter Notebook](https://blog.godatadriven.com/write-less-terrible-notebook-code)
+
+## git
+
+*[Learn Git Branching](https://learngitbranching.js.org/)
