@@ -24,6 +24,10 @@ a list of python resources
 * [Python development workflow](https://stackoverflow.com/questions/19876993/python-module-import-relative-paths-issue/19877478#19877478) 
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 
+## testing
+
+[Ned Batchelder - Getting startend testing - PyCon 2014](https://youtu.be/FxSsnHeWQBY)
+
 ## data science
 
 * [Pyhton data science handbook - Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
