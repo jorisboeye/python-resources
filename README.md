@@ -15,6 +15,7 @@ a list of python resources
 ## object oriented programming
 * [Datacamp OOP tutorial](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
 * [Hashes and equality - Hynek Schlawack](https://hynek.me/articles/hashes-and-equality/)
+* [Composition over inheritance - Brandon Rhodes](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 
 ## code style & structure
 
