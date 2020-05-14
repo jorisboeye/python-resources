@@ -57,3 +57,7 @@ Jay Alammar](https://jalammar.github.io/visual-numpy/)
 ## git
 
 * [Learn Git Branching](https://learngitbranching.js.org/)
+
+## docker
+
+* [Docker for Python Developers - Michael Herman](https://mherman.org/presentations/dockercon-2018/#1)
