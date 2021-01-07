@@ -27,11 +27,11 @@ a list of python resources
 
 ## testing
 
-[Ned Batchelder - Getting startend testing - PyCon 2014](https://youtu.be/FxSsnHeWQBY)
++ [Ned Batchelder - Getting startend testing - PyCon 2014](https://youtu.be/FxSsnHeWQBY)
 
 ## packaging
 
-[Ionel Cristian Mărieș - Packaging a python library](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
++ [Ionel Cristian Mărieș - Packaging a python library](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
 
 ## data science
 
