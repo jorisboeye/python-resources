@@ -21,8 +21,14 @@ a list of python resources
 
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://youtu.be/wf-BqAjZb8M)
-* [Python development workflow](https://stackoverflow.com/questions/19876993/python-module-import-relative-paths-issue/19877478#19877478) 
+* [Python development workflow](https://stackoverflow.com/questions/19876993/python-module-import-relative-paths-issue/19877478#19877478)
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
+
+## projects
+
+* [DevProjects - Real-world curated Python projects](https://www.codementor.io/projects/python)
+* [Top 45 Python project ideas for beginners](https://intellipaat.com/blog/python-project-ideas-for-beginners/)
+* [Real-time projects for Python](https://data-flair.training/blogs/python-project-ideas/)
 
 ## testing
 
@@ -32,17 +38,17 @@ a list of python resources
 
 * [The Hitchhiker's Guide to Python - Structuring your project](https://docs.python-guide.org/writing/structure/)
 + [Ionel Cristian Mărieș - Packaging a python library](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
-+ [Anton Zhiyanov - How to make an awesome Python package in 2021](https://antonz.org/python-packaging/) 
++ [Anton Zhiyanov - How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
 
 ## data science
 
 * [Pyhton data science handbook - Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
-* [Python data visualisations tutorial - Ben Hammer](https://www.kaggle.com/benhamner/python-data-visualizations) 
+* [Python data visualisations tutorial - Ben Hammer](https://www.kaggle.com/benhamner/python-data-visualizations)
 * [Towards pandas 1.0 - Marc Garcia](https://youtu.be/hK6o_TDXXN8)
 
 ## numpy
-* [A Visual Intro to NumPy and Data Representation - 
+* [A Visual Intro to NumPy and Data Representation -
 Jay Alammar](https://jalammar.github.io/visual-numpy/)
 
 ## optimization
