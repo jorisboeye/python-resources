@@ -23,6 +23,7 @@ a list of python resources
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://youtu.be/wf-BqAjZb8M)
 * [Python development workflow](https://stackoverflow.com/questions/19876993/python-module-import-relative-paths-issue/19877478#19877478) 
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
+* [A deep dive on Python type hints - Vicki Boykis](https://veekaybee.github.io/2019/07/08/python-type-hints/)
 
 ## testing
 
