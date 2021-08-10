@@ -17,6 +17,8 @@ a list of python resources
 * [Hashes and equality - Hynek Schlawack](https://hynek.me/articles/hashes-and-equality/)
 * [Composition over inheritance - Brandon Rhodes](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 * [Subclassing in Python Redux - Hynek Schlawack](https://hynek.me/articles/python-subclassing-redux/)
+* [I Want A New Duck - Glyph Lefkowitz](https://glyph.twistedmatrix.com/2020/07/new-duck.html)
+
 
 ## code style
 
