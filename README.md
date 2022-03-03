@@ -10,6 +10,7 @@ a list of python resources
 * [Generators will Free Your Mind - James Powell](https://www.youtube.com/watch?v=RdhoN4VVqq8)
 * [Type-checked Python in the real world - PyCon 2018 - Carl Meyer](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 * [Regular expressions explainer and testing - Regex101.com](https://www.regex101.com)
+* [Lists vs. Tuples - Ned Batchelder](https://nedbatchelder.com/blog/201608/lists_vs_tuples.html)
 
 
 ## object oriented programming
