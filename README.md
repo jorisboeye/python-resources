@@ -23,27 +23,28 @@ a list of python resources
 
 ## code style
 
-* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://youtu.be/wf-BqAjZb8M)
-* [Python development workflow](https://stackoverflow.com/questions/19876993/python-module-import-relative-paths-issue/19877478#19877478) 
+* [Python development workflow](https://stackoverflow.com/questions/19876993/python-module-import-relative-paths-issue/19877478#19877478)
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 * [A deep dive on Python type hints - Vicki Boykis](https://veekaybee.github.io/2019/07/08/python-type-hints/)
 
 ## testing
 
 + [Ned Batchelder - Getting startend testing - PyCon 2014](https://youtu.be/FxSsnHeWQBY)
++ [Hynek Schlawack - Parametrized pytest Fixtures](https://hynek.me/til/parametrized-pytest-fixtures/)
 
 ## packaging
 
 * [The Hitchhiker's Guide to Python - Structuring your project](https://docs.python-guide.org/writing/structure/)
 + [Ionel Cristian Mărieș - Packaging a python library](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
-+ [Anton Zhiyanov - How to make an awesome Python package in 2021](https://antonz.org/python-packaging/) 
++ [Anton Zhiyanov - How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
 
 ## data science
 
 * [Pyhton data science handbook - Jake Vanderplas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
-* [Python data visualisations tutorial - Ben Hammer](https://www.kaggle.com/benhamner/python-data-visualizations) 
+* [Python data visualisations tutorial - Ben Hammer](https://www.kaggle.com/benhamner/python-data-visualizations)
 * [Towards pandas 1.0 - Marc Garcia](https://youtu.be/hK6o_TDXXN8)
 
 ## numpy
