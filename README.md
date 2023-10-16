@@ -29,6 +29,12 @@ a list of python resources
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 * [A deep dive on Python type hints - Vicki Boykis](https://veekaybee.github.io/2019/07/08/python-type-hints/)
 
+## projects
+
+* [DevProjects - Real-world curated Python projects](https://www.codementor.io/projects/python)
+* [Top 45 Python project ideas for beginners](https://intellipaat.com/blog/python-project-ideas-for-beginners/)
+* [Real-time projects for Python](https://data-flair.training/blogs/python-project-ideas/)
+
 ## testing
 
 + [Ned Batchelder - Getting startend testing - PyCon 2014](https://youtu.be/FxSsnHeWQBY)
@@ -48,7 +54,7 @@ a list of python resources
 * [Towards pandas 1.0 - Marc Garcia](https://youtu.be/hK6o_TDXXN8)
 
 ## numpy
-* [A Visual Intro to NumPy and Data Representation - 
+* [A Visual Intro to NumPy and Data Representation -
 Jay Alammar](https://jalammar.github.io/visual-numpy/)
 
 ## optimization
