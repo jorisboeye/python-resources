@@ -39,6 +39,7 @@ a list of python resources
 * [The Hitchhiker's Guide to Python - Structuring your project](https://docs.python-guide.org/writing/structure/)
 + [Ionel Cristian Mărieș - Packaging a python library](https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure)
 + [Anton Zhiyanov - How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
++ [Anna-Lena Popkes - An unbiased evaluation of environment management and packaging tools](https://alpopkes.com/posts/python/packaging_tools/)
 
 ## data science
 
